@@ -1,0 +1,10 @@
+dm_env
+bsuite
+jax
+rlax
+git+https://github.com/deepmind/dm-haiku
+optax
+colabtools
+pandas
+matplotlib
+
